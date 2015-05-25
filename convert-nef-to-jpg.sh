@@ -1,1 +1,2 @@
-./convert-images.sh ~/Pictures/2015 ~/pictures-converted/nef-to-jpg-2015 NEF jpg
+#!/bin/bash
+./convert-images.sh ~/Pictures ~/pictures-converted/nef-to-jpg NEF jpg
