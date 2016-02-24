@@ -99,7 +99,7 @@ o5=$9
 o6=${10}
 o7=${11}
 o8=${12}
-o8=${13}
+o9=${13}
 
 opts=$(echo "${o1} ${o2} ${o3} ${o4} ${o5} ${o6} ${o7} ${o8} ${o9}" | xargs)
 convert_images "${source_dir}" "${dest_dir}" "${source_type}" "${dest_type}" "${opts}"
